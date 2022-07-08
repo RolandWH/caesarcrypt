@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "caesarcrypt", "caesarcrypt.vcxproj", "{BFB0CF25-00F6-4352-9057-5349E4B0BDFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFB0CF25-00F6-4352-9057-5349E4B0BDFA}.Debug|x64.ActiveCfg = Debug|x64
+		{BFB0CF25-00F6-4352-9057-5349E4B0BDFA}.Debug|x64.Build.0 = Debug|x64
+		{BFB0CF25-00F6-4352-9057-5349E4B0BDFA}.Release|x64.ActiveCfg = Release|x64
+		{BFB0CF25-00F6-4352-9057-5349E4B0BDFA}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3168F4B4-5B29-4F5A-A29C-77AA5D538D1F}
+	EndGlobalSection
+EndGlobal
